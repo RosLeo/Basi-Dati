@@ -14,7 +14,7 @@ This project aims to provide a Python interface for interacting with MongoDB, ut
 
 - **Image Handling**: Enhance the interface and improve data visualization by utilizing images from the `frame0` folder.
 
-- **Project Presentation**: For a comprehensive understanding of the project, please refer to the PDF presentation file (`presentation.pdf`).
+- **Project Presentation**: For a comprehensive understanding of the project, please refer to the PDF presentation file (`Zara.pdf`).
 
 ## Getting Started
 
