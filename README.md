@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to provide a Python interface for interacting with MongoDB, utilizing the Zara dataset.
+This project aims to provide a Python interface for interacting with MongoDB, utilizing the Zara dataset stored in the file named `ZARA.zara_data.json`.
 
 ## Key Features
 
